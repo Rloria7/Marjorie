@@ -11311,6 +11311,11 @@ h6 {
   .about-content {
     margin-bottom: 30px;
   }
+  .paralax-container h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -11321,6 +11326,11 @@ h6 {
 
   .about-content {
     margin-bottom: 30px;
+  }
+  .paralax-container h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
   }
 }
 
