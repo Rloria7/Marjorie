@@ -11333,7 +11333,7 @@ h6 {
     font-size: 64px;
   }
 }
-@media only screen and (min-width: 320px) and (max-width: 400px) {
+@media only screen and (min-width: 320px) and (max-width: 500px) {
   .paralax-container h2 {
     font-size: 64px !important;
     font-weight: 300;
