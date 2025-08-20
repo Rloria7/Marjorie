@@ -11517,7 +11517,7 @@ h6 {
   height: 60px;
   bottom: 80px;
   right: 40px;
-  background-color: var(--primary);
+  background-color: var(--dark);
   color: #FFF;
   border-radius: 50px;
   text-align: center;
@@ -11529,7 +11529,7 @@ h6 {
 .float:hover {
   text-decoration: none;
   color: #FFF;
-  background-color: var(--primary);
+  background-color: var(--dark);
 
   animation: shake 1s;
 
