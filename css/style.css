@@ -11539,3 +11539,8 @@ h6 {
 .my-float {
   margin-top: 16px;
 }
+
+.text-xs {
+  font-size: .75rem;
+  line-height: 1rem;
+}
